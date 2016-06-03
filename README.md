@@ -1,7 +1,7 @@
-# HVScan-Code
+# HV-Scan_roll_to_CH
 To run the code you have to do the following steps.
 
-1. To create a directory called "data" and include in it the following files:
+I. To create a directory called "data" and include in it the following files:
 
 barrel_summary.txt  -> Summary with parameters of the HV Scan for Barrel
 
@@ -11,7 +11,7 @@ AveragedAll.txt     -> The list of chambers that are connected together accordin
 
 Alone_chambers.txt  -> A group of chambers that are not connected to other ones
 
-2. To create a directory called "results" that will store the output of the code. As a result of running the code you will find the following files:
+II. To create a directory called "results" that will store the output of the code. As a result of running the code you will find the following files:
 
 Alone_chamber_barrel.txt
 
