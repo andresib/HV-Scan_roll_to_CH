@@ -41,12 +41,17 @@ It will contain the same info as ch_diference_endcap.txt, additionally it has th
 
 Compiling:
 g++ -o endcap channel_difference_endcap.cpp 
-g++ -o alone alone.cpp 
+
+g++ -o alone alone.cpp
+
 g++ -o barrel channel_difference_barrel.cpp 
 
 Running:
+
 ./barrel
+
 ./endcap
+
 ./alone
 
 By default the compiled files are included. 
