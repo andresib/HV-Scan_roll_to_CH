@@ -7,9 +7,9 @@ barrel_summary.txt  -> Summary with parameters of the HV Scan for Barrel
 
 endcap_summary.txt  -> Summary with parameters of the HV Scan for Endcaps
 
-AveragedAll.txt     -> The list of chambers that are connected together according to WP
+AveragedAll.txt     -> The list of chambers that are connected together according to WP in the endcaps
 
-Alone_chambers.txt  -> A group of chambers that are not connected to other ones
+Alone_chambers.txt  -> A group of chambers that are not connected to other ones in the endcaps
 
 #####II. To create a directory called "results" that will store the output of the code. As a result of running the code you will find the following files:
 
